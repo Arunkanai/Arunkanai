@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arunkanai</h1>
 <h3 align="center">A passionate Full-stack Developer In Srilanka</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://dbaasltd.com/assets/img/custom-software-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkanai&label=Profile%20views&color=0e75b6&style=flat" alt="arunkanai" /> </p>
 

@@ -37,7 +37,7 @@
 </td>
 <td width="50%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arunkanai&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=15"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arunkanai&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=100"/>
   
   </td>
 </tr>

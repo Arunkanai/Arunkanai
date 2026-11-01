@@ -2,59 +2,65 @@
 
 ### Full-Stack Software Engineer | .NET | React | Cloud | AI Engineering
 
-**Engineering scalable software. Building intelligent solutions. Turning ideas into production-ready applications.**
+**Building scalable software. Engineering intelligent solutions. Innovating with technology.**
 
-I'm a Software Engineer from Sri Lanka passionate about designing, developing, and deploying modern software solutions. I work across backend engineering, frontend development, cloud infrastructure, and mobile application development.
+I'm a Software Engineer from Sri Lanka passionate about designing, developing, and deploying modern software solutions. My work spans backend engineering, frontend development, cloud infrastructure, mobile applications, and emerging AI technologies.
 
-I enjoy solving complex engineering problems, exploring emerging technologies, and building systems that deliver real-world value.
+I enjoy solving complex engineering challenges and transforming ideas into reliable, production-ready applications.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arunkanai&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/arunkanai?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
-</p>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=arunkanai&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/arunkanai?style=for-the-badge&logo=github&color=181717)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Software Engineer focused on **.NET, C#, React, and Next.js**.
-- ⚙️ Experienced in building RESTful APIs, backend services, and modern web applications.
-- ☁️ Interested in cloud architecture, AWS services, DevOps, and scalable infrastructure.
-- 🤖 Exploring Artificial Intelligence, Large Language Models (LLMs), RAG, and AI-powered applications.
-- 📱 Developing cross-platform mobile applications using Flutter and React Native.
-- 🏗️ Interested in software architecture, system design, clean code, and performance optimization.
+- 💻 Full-Stack Software Engineer specializing in **C#, .NET, React, and Next.js**.
+- ⚙️ Building REST APIs, enterprise applications, and scalable backend systems.
+- ☁️ Exploring cloud architecture, AWS, Docker, and CI/CD automation.
+- 🤖 Exploring AI Engineering, LLMs, RAG, AI Agents, and Computer Vision.
+- 📱 Developing cross-platform applications using Flutter and React Native.
+- 🏗️ Interested in system design, software architecture, clean code, and performance optimization.
 - 🎓 Bachelor of Software Engineering (Honors) – Open University of Sri Lanka.
-- 🌍 Based in Sri Lanka.
-- 📫 **Email:** arunkanaiofficial123456789@gmail.com
+- 🌍 Sri Lanka.
+- 📫 Email: **arunkanaiofficial123456789@gmail.com**
 
 ---
 
-## 🧠 Engineering Focus
+## 🧠 Engineering Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Backend Engineering
+
 - C# / .NET
 - ASP.NET Core Web API
 - Entity Framework Core
-- RESTful API Architecture
+- RESTful API Development
 - Authentication & Authorization
-- Microservices Architecture
-- Background Processing
+- Microservices
+- SQL Optimization
+- Background Services
 
 </td>
 <td width="50%" valign="top">
 
 ### Frontend Engineering
+
 - React.js
 - Next.js
 - TypeScript
 - JavaScript
 - Tailwind CSS
-- Responsive UI Development
+- Responsive Design
 - State Management
+- Modern UI Development
 
 </td>
 </tr>
@@ -62,23 +68,27 @@ I enjoy solving complex engineering problems, exploring emerging technologies, a
 <td width="50%" valign="top">
 
 ### Cloud & DevOps
-- Amazon Web Services (AWS)
-- Docker
-- CI/CD Pipelines
+
+- Amazon Web Services
 - AWS S3
 - AWS Amplify
+- Docker
+- GitHub Actions
+- CI/CD Pipelines
 - Firebase
-- Git & GitHub
+- Cloud Deployment
 
 </td>
 <td width="50%" valign="top">
 
-### AI & Emerging Technologies
+### AI & Machine Learning
+
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
+- AI Agents
 - Prompt Engineering
-- AI Agents & Automation
-- Python & PyTorch
+- Python
+- PyTorch
 - Computer Vision
 - OpenCV
 
@@ -93,93 +103,85 @@ I enjoy solving complex engineering problems, exploring emerging technologies, a
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,python,php,java,dart" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,python,php,java,dart" alt="Programming Languages"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,flutter,bootstrap,tailwind" alt="Frameworks and libraries"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,flutter,bootstrap,tailwind" alt="Frameworks"/>
 </p>
 
-### Databases & Data Technologies
+### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,firebase,redis,mongodb" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,mongodb,redis,firebase" alt="Databases"/>
 </p>
 
-### Cloud, DevOps & Development Tools
+### Cloud, DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,postman,figma,vscode,visualstudio" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,postman,figma,vscode,visualstudio" alt="Cloud and Development Tools"/>
 </p>
 
-### AI & Machine Learning
+### AI & Data Science
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow" alt="AI and machine learning"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI and Machine Learning"/>
 </p>
 
 ---
 
 ## 🏗️ What I Build
 
-- **Enterprise Applications:** Scalable business applications, management systems, and enterprise APIs.
-- **SaaS Platforms:** Multi-tenant applications, subscription-based systems, and cloud-native solutions.
-- **Web Applications:** Modern, responsive applications using React, Next.js, and TypeScript.
-- **Mobile Applications:** Cross-platform mobile experiences using Flutter and React Native.
-- **AI-Powered Applications:** Intelligent systems integrating LLMs, RAG pipelines, and AI automation.
-- **Cloud Solutions:** Secure application deployments, cloud storage, and scalable infrastructure.
+- **Enterprise Applications:** Business management systems, enterprise APIs, and workflow automation.
+- **SaaS Platforms:** Subscription-based applications and multi-tenant architectures.
+- **Web Applications:** Modern applications using React, Next.js, and TypeScript.
+- **Mobile Applications:** Cross-platform applications using Flutter and React Native.
+- **AI-Powered Applications:** Intelligent applications using LLMs, RAG, and AI automation.
+- **Cloud Solutions:** Scalable infrastructure, cloud storage, and application deployments.
 
 ---
 
 ## 🔬 Currently Exploring
 
-I'm continuously expanding my engineering knowledge and exploring technologies shaping the future of software development.
-
-| Technology | Learning Focus |
+| Technology | Focus |
 |---|---|
-| AI Engineering | LLMs, model integration, evaluation |
+| AI Engineering | LLM integration, inference and evaluation |
 | Agentic AI | Autonomous agents and multi-agent systems |
-| RAG | Vector databases, embeddings, retrieval pipelines |
-| AI/ML | PyTorch, model training and inference |
-| Cloud Architecture | AWS, distributed systems, scalability |
-| System Design | Microservices, event-driven architecture |
-| DevOps | Docker, GitHub Actions, CI/CD |
+| RAG | Embeddings, vector databases and retrieval |
+| Machine Learning | PyTorch and model development |
+| Cloud Architecture | AWS and distributed systems |
+| System Design | Microservices and event-driven architecture |
+| DevOps | Docker, GitHub Actions and CI/CD |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Engineering Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arunkanai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkanai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=arunkanai&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="./github-metrics.svg" alt="Arunkanai GitHub Metrics Dashboard" width="100%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunkanai&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://raw.githubusercontent.com/arunkanai/arunkanai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arunkanai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub trophies"/>
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=arunkanai&theme=tokyo-night&hide_border=true)](https://github.com/arunkanai)
 
 </div>
 
@@ -194,17 +196,17 @@ I'm continuously expanding my engineering knowledge and exploring technologies s
   <a href="mailto:arunkanaiofficial123456789@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Add your LinkedIn URL here -->
+  <!-- Add your LinkedIn profile URL here -->
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 "Build with purpose. Engineer with precision. Innovate continuously."
+### 💡 Build with Purpose. Engineer with Precision. Innovate Continuously.
 
 **Thanks for visiting my GitHub profile!**
 
-⭐ Feel free to explore my repositories and connect with me.
+⭐ Explore my repositories and feel free to connect.
 
 </div>

@@ -1,19 +1,17 @@
-# 👋 Hi, I'm Arunkanai
-
-### Full-Stack Software Engineer | .NET | React | Cloud | AI Engineering
-
-**Building scalable software. Engineering intelligent solutions. Innovating with technology.**
-
-I'm a Software Engineer from Sri Lanka passionate about designing, developing, and deploying modern software solutions. My work spans backend engineering, frontend development, cloud infrastructure, mobile applications, and emerging AI technologies.
-
-I enjoy solving complex engineering challenges and transforming ideas into reliable, production-ready applications.
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7aa2f7&height=200&section=header&text=Arun%20Kanai&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descAlignY=56&descSize=20" alt="Arun Kanai, Full-Stack Software Engineer" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=640&lines=Building+scalable+software;Engineering+intelligent+solutions;.NET+%7C+React+%7C+Cloud+%7C+AI+Engineering" alt="Building scalable software. Engineering intelligent solutions. .NET, React, Cloud, AI Engineering."/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arunkanai&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/arunkanai?style=for-the-badge&logo=github&color=181717)
 
 </div>
+
+I'm a Software Engineer from Sri Lanka passionate about designing, developing, and deploying modern software solutions. My work spans backend engineering, frontend development, cloud infrastructure, mobile applications, and emerging AI technologies.
+
+I enjoy solving complex engineering challenges and transforming ideas into reliable, production-ready applications.
 
 ---
 
@@ -27,7 +25,6 @@ I enjoy solving complex engineering challenges and transforming ideas into relia
 - 🏗️ Interested in system design, software architecture, clean code, and performance optimization.
 - 🎓 Bachelor of Software Engineering (Honors) – Open University of Sri Lanka.
 - 🌍 Sri Lanka.
-- 📫 Email: **arunkanaiofficial123456789@gmail.com**
 
 ---
 
@@ -109,7 +106,7 @@ I enjoy solving complex engineering challenges and transforming ideas into relia
 ### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,flutter,bootstrap,tailwind" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,nestjs,prisma,flutter,bootstrap,tailwind" alt="Frameworks"/>
 </p>
 
 ### Databases
@@ -121,7 +118,7 @@ I enjoy solving complex engineering challenges and transforming ideas into relia
 ### Cloud, DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,postman,figma,vscode,visualstudio" alt="Cloud and Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,github,githubactions,linux,postman,figma,vscode,visualstudio" alt="Cloud and Development Tools"/>
 </p>
 
 ### AI & Data Science
@@ -161,7 +158,12 @@ I enjoy solving complex engineering challenges and transforming ideas into relia
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="Arunkanai GitHub Metrics Dashboard" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunkanai&theme=tokyonight" alt="GitHub profile details" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arunkanai&theme=tokyonight" alt="GitHub stats" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arunkanai&theme=tokyonight" alt="Repositories per language" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=arunkanai&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="100%"/>
 
 </div>
 
@@ -171,17 +173,10 @@ I enjoy solving complex engineering challenges and transforming ideas into relia
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arunkanai/arunkanai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
-
-</div>
-
----
-
-## 📈 GitHub Contribution Activity
-
-<div align="center">
-
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=arunkanai&theme=tokyo-night&hide_border=true)](https://github.com/arunkanai)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunkanai/Arunkanai/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Arunkanai/Arunkanai/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+</picture>
 
 </div>
 
@@ -208,5 +203,7 @@ I enjoy solving complex engineering challenges and transforming ideas into relia
 **Thanks for visiting my GitHub profile!**
 
 ⭐ Explore my repositories and feel free to connect.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:0e75b6&height=100&section=footer" alt="" width="100%"/>
 
 </div>
